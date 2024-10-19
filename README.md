@@ -1,6 +1,9 @@
 ﻿# Chat 2
 #### Electric Boogaloo - ♪ A whole new chat, a new fantastic chat window ♪
 
+# 为了解决CNDalamud客户端没有Chat2的问题
+### 请去右边Releases下载最新文件手动本地安装,在线安装暂时失效
+
 Chat 2 is a complete rewrite of the in-game chat window as a plugin.
 It supports:
 
