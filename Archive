@@ -1,0 +1,27 @@
+[
+    {
+        "CategoryTags": null,
+        "IsHide": true,
+        "InternalName": "ChatTwo",
+        "AssemblyVersion": "1.29.3.0",
+        "TestingAssemblyVersion": "1.22.1.0",
+        "IsTestingExclusive": false,
+        "RepoUrl": "https://github.com/Infiziert90/ChatTwo",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "TestingDalamudApiLevel": 9,
+        "DownloadCount": 483308,
+        "LastUpdate": 1726166190,
+        "DownloadLinkInstall": "https://kamori.goats.dev/Plugin/Download/ChatTwo?isUpdate=False&isTesting=False&branch=api9&isDip17=True",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api9/plugins/ChatTwo/latest.zip",
+        "DownloadLinkTesting": "https://kamori.goats.dev/Plugin/Download/ChatTwo?isUpdate=False&isTesting=True&branch=api9&isDip17=True",
+        "LoadPriority": 0,
+        "ImageUrls": null,
+        "IconUrl": null,
+        "AcceptsFeedback": true,
+        "FeedbackMessage": null,
+        "FeedbackWebhook": null,
+        "_isDip17Plugin": true,
+        "_Dip17Channel": "testing-live"
+    }
+]
